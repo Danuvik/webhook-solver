@@ -1,0 +1,6 @@
+org\example\webhooksolver\service\WebhookService.class
+org\example\webhooksolver\config\AppConfig.class
+org\example\webhooksolver\dto\WebhookResponse.class
+org\example\webhooksolver\WebhookSolverApplication.class
+org\example\webhooksolver\dto\SolutionRequest.class
+org\example\webhooksolver\util\SqlProblemSolver.class
